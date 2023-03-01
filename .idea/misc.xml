@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/java-c01-syntax/pom.xml" />
+        <option value="$PROJECT_DIR$/java-c02-opp/pom.xml" />
+        <option value="$PROJECT_DIR$/java-c03-data-structures/pom.xml" />
+        <option value="$PROJECT_DIR$/java-c03-prueba/pom.xml" />
+        <option value="$PROJECT_DIR$/Casos-Practicos/pom.xml" />
+        <option value="$PROJECT_DIR$/java-c04-exceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/java-c05-time/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-c01-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-c02-data-jpa-relationship/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-c03-data-jpa-queries/pom.xml" />
+        <option value="$PROJECT_DIR$/z-caso-practico1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-c04-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-git/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-c05-web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-c06-web-food/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-c07-web-food-relationship/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-c08-SupermarketSection/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-c08-web-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-c09-web-flights/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="temurin-19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

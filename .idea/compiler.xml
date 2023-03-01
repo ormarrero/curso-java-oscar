@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-c03-data-jpa-queries" />
+        <module name="java-c01-syntax" />
+        <module name="java-c02-opp" />
+        <module name="java-c04-exceptions" />
+        <module name="spring-c07-web-food-relationships" />
+        <module name="java-c05-time" />
+        <module name="spring-c09-web-flights" />
+        <module name="demo" />
+        <module name="java-c03-data-structures" />
+        <module name="spring-c04-service" />
+        <module name="spring-c08-web-security" />
+        <module name="spring-c05-web" />
+        <module name="z-caso-practico1" />
+        <module name="spring-c06-web-food" />
+        <module name="spring-c01-data-jpa" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-c07-web-food-relationship" target="19" />
+      <module name="spring-c08-SupermarketSection" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="spring-c01-data-jpa" options="-parameters" />
+      <module name="spring-c03-data-jpa-queries" options="-parameters" />
+      <module name="spring-c04-service" options="-parameters" />
+      <module name="spring-c05-web" options="-parameters" />
+      <module name="spring-c06-web-food" options="-parameters" />
+      <module name="spring-c07-web-food-relationship" options="-parameters" />
+      <module name="spring-c07-web-food-relationships" options="-parameters" />
+      <module name="spring-c08-SupermarketSection" options="-parameters" />
+      <module name="spring-c08-web-security" options="-parameters" />
+      <module name="spring-c09-web-flights" options="-parameters" />
+    </option>
+  </component>
+</project>

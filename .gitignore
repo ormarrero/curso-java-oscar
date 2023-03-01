@@ -1,0 +1,7 @@
+# Project exclude paths
+/java-c01-syntax/target/
+/java-c02-opp/target/
+/java-c03-data-structures/target/
+/java-c04-exceptions/target/
+/java-c05-time/target/
+/z-caso-practico1/target/
